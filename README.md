@@ -58,6 +58,10 @@ Main tasks: - Managing all the social and media networks of the company: You Tub
 
 Main tasks: - Developing new projects to increase the company product portfolio in the financial and insurance sector. - Finding new cooperations with the biggest credit and insurance institutions in Italy- Organizing the front and back office activities of the branches. - Monitoring and instructing the branch managers and the back office operators as well as verifying the regulatory compliance of the offices of the group. - Organizing the outbound activities of the internal call center. - Recruiting, training and managing call center operators and selecting web developers with whom to interface for the development activities of the company websites.
 
+## Interests
+
+Music, travels, movies, technology, astrophysics.
+
 
 
 
