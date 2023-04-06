@@ -23,7 +23,7 @@ I know, my Github is quite empty at the moment, obviously because I just started
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| <a href="https://www.yivro.com/">Yivro.com</a> | A website that allows you to make a resume that includes videos and to export it as a standard PDF. | Wordpress and Plugins |
+| <a href="https://www.yivro.com/" target="_blank">Yivro.com</a> | A website that allows you to make a resume that includes videos and to export it as a standard PDF. | Wordpress and Plugins |
 
 ## Education
 
