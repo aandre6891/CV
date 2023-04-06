@@ -8,3 +8,13 @@ I worked on the company's websites for a few years (all built with Wordpress) an
 
 I've worked in sales for many years and, when I arrived in London, I found a job as an IT recruiter. This experience put me in contact with many developers and made me realize once again that this is what I want to do. So I decided to quit my job and attend the Makers Academy Bootcamp which I hope will give me the chance to start a new career as a Developer.
 
+## What To Check Out On My Github
+
+I know, my Github is quite empty at the moment, obviously because I just started the Academy. You can find, anyway, these repositories that are related to some exercises we have done in the first month of pre-course at Makers using Ruby:
+
+- Mastery quizzes (https://github.com/aandre6891/mastery-quizzes)
+- Interactive Menu (https://github.com/aandre6891/interactive-menu)
+- Step8 (https://github.com/aandre6891/step8)
+- Step14 (https://github.com/aandre6891/step14)
+
+
