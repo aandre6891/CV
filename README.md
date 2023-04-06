@@ -1,6 +1,6 @@
 # Andrea Ruggieri
 
-[Go to: About me](## About Me) - [My GitHub](## What To Check Out On My Github)
+[Go to: About me](#about-me) - [My GitHub](#what-to-check-out-on-my-github) - [Education](#education) - [Experience](#job-experience) - [Interests](#interests)
 
 ## About Me
 
