@@ -17,4 +17,29 @@ I know, my Github is quite empty at the moment, obviously because I just started
 - Step8 (https://github.com/aandre6891/step8)
 - Step14 (https://github.com/aandre6891/step14)
 
+## Education
+
+### Makers Academy (March 2023 - ongoing)
+
+Makers Academy's'extreme programming' agile environment aims to produce self-sufficient developers and to teach both coding and best practices.
+
+Things I've learned (updating):
+
+- Ruby
+- Git
+- Github
+- Slack
+- Visual studio code
+
+### Master's Degree in Law (November 2020)
+
+5 years Single-cycle degree in Law of the Niccolò Cusano University that gave me skills and solid knowledge in the field of law.
+
+### Bachelor's Degree in Economics and Business Management (April 2012)
+
+3 years Bachelor’s degree programme in Business Economics and Management that gave me both general and specialised knowledge and skills in business, management and legal areas.
+
+
+
+
 
