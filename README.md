@@ -1,6 +1,8 @@
 # Andrea Ruggieri
 
-## Who I am
+[Go to: About me](## About Me) - [My GitHub](## What To Check Out On My Github)
+
+## About Me
 
 I am an aspiring web developer, currently attending the Makers Academy Bootcamp to finally do what I was supposed to do, becoming a developer. I started working at the age of 20 in a brokerage agency and that experience gave me the opportunity to approach the world of web development.
 
