@@ -1,6 +1,6 @@
 # Andrea Ruggieri
 
-[Go to: About me](#about-me) -- [My GitHub](#what-to-check-out-on-my-github) -- [Education](#education) -- [Experience](#job-experience) -- [Interests](#interests)
+[Go to: About me](#about-me) -- [My GitHub](#what-to-check-out-on-my-github) -- [Projects](#projects) -- [Education](#education) -- [Experience](#job-experience) -- [Interests](#interests)
 
 ## About Me
 
@@ -23,7 +23,7 @@ I know, my Github is quite empty at the moment, obviously because I just started
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-|Yivro.com | A website that allows you to make a resume that includes videos and to export it as a standard PDF. | Wordpress |
+| <a href="https://www.yivro.com/">Yivro.com</a> | A website that allows you to make a resume that includes videos and to export it as a standard PDF. | Wordpress and Plugins |
 
 ## Education
 
