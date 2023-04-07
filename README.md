@@ -14,6 +14,7 @@ I've worked in sales for many years and, when I arrived in London, I found a job
 
 I know, my Github is quite empty at the moment, obviously because I just started the Academy. You can find, anyway, these repositories that are related to some exercises we have done in the first month of pre-course at Makers using Ruby:
 
+- Student Directory (https://github.com/aandre6891/student-directory)
 - Mastery quizzes (https://github.com/aandre6891/mastery-quizzes)
 - Interactive Menu (https://github.com/aandre6891/interactive-menu)
 - Step8 (https://github.com/aandre6891/step8)
@@ -23,6 +24,7 @@ I know, my Github is quite empty at the moment, obviously because I just started
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+| <a href="https://github.com/aandre6891/student-directory" target="_blank">Student Directory</a> | A complete directory to insert names and details of students in a school. You can upload an existing list, export a new list, add new students | Ruby |
 | <a href="https://www.yivro.com/" target="_blank">Yivro.com</a> | A website that allows you to make a resume that includes videos and to export it as a standard PDF. | Wordpress and Plugins |
 
 ## Education
