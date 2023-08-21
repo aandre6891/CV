@@ -77,7 +77,18 @@ visits. Leading customer service, planning, and logistics teams. Negotiating exp
 
 ## Interests
 
-Music, travels, movies, technology, astrophysics.
+- Technology: particularly smart tech and home automation.
+- Books: My favourite is "The Count of Monte Cristo"
+- Cinema/Movies: Enthusiast of sci-fi films, especially
+"Interstellar."
+- Music: Enjoy a range from pop to rock to blues.
+- Travel: Traveled to 34 countries and planning to visit more.
+- Sport: Especially football, I am an A.S. Roma supporter, keen on
+international sports events.
+- Photography: Smartphone shutterbug, but I'll get back to a DSLR
+as soon as possible.
+- Astrophysics: Fascinated by the mysteries of the Universe. I like
+reading books, watching films and videos on this subject.
 
 
 
