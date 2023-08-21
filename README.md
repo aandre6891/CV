@@ -15,10 +15,6 @@ Databases: MongoDb, PostgreSQL | Methodologies: Agile, TDD (Test-Driven Developm
 Version control: Git, Github | |
 Design Patterns: MVC | |
 
-
-Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Programming), DRY (Don't Repeat Yourself) |
-
-
 ## Projects
 
 | Name                                               | Description                                                                                       | Tech Stack                            |
