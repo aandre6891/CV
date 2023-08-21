@@ -10,7 +10,7 @@ A Developer with diverse background in Sales, Team Management, and Tech Recruitm
 
 | ---------------------- | ---------------------- |
 | Languages: Ruby, JavaScript | Testing: Jest, Rspec |
-Web Development: Html, Css, Node, Express, Sinatra | Other: Api, Json |
+| Web Development: Html, Css, Node, Express, Sinatra | Other: Api, Json |
 | Databases: MongoDb, PostgreSQL | Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Programming), DRY (Don't Repeat Yourself) |
 | Version control: Git, Github | |
 | Design Patterns: MVC | |
