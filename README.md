@@ -8,14 +8,14 @@ A Developer with diverse background in Sales, Team Management, and Tech Recruitm
 
 ## Technical Skills
 
-Languages: Ruby, JavaScript
-Web Development: Html, Css, Node, Express, Sinatra
-Databases: MongoDb, PostgreSQL
-Version control: Git, Github
-Design Patterns: MVC
+Languages: Ruby, JavaScript 
+Web Development: Html, Css, Node, Express, Sinatra 
+Databases: MongoDb, PostgreSQL 
+Version control: Git, Github 
+Design Patterns: MVC 
 
-Testing: Jest, Rspec
-Other: Api, Json
+Testing: Jest, Rspec 
+Other: Api, Json 
 Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Programming), DRY (Don't Repeat Yourself)
 
 ## Projects
