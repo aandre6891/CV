@@ -53,22 +53,33 @@ marketing, accounting, and HR. It allowed me to gain practical skills through re
 - Certified in essential digital marketing concepts including SEO, PPC, social media, email marketing, and web analytics. Gives proficiency in fundamental strategies for navigating the digital marketing landscape.
 ## Career Experience
 
-### Senior IT Recruiter @Frank Recruitment Group (September 2021 - March 2023) 
+### Makers Academy Bootcamp - (March 2023 – July 2023) – London (UK)
+**Web/Software Developer**
+- In addition to being an education course, Makers Academy provided an immersive and practical simulation of a
+professional work environment. By actively engaging in various team projects, I was able to apply methodologies and work processes that mirror those used in real-world settings. This experience surpassed the bounds of a conventional learning program. It served as a platform to develop tangible skills within a simulated work atmosphere and effectively preparing me for the challenges and opportunities that lie ahead in the software development field.
 
-Main tasks: - Inserting new POCs of potential clients in the company platform (Salesforce based). - Calling potential collaborators to profile the candidates for new client's projects. - Business development calls with potential clients. - Qualifying the jobs with the technical department of the clients. - Preparing the candidates to the interviews. - Receiving amendments to the contract for the client and talking to the legal department to find solutions. - Keeping the relationship with both clients and collaborators.
+### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
+- Trainee IT Recruiter
+- Promoted to Recruiting Consultant (from March 2022)
+- Promoted to Senior IT Recruiter (from December 2022)
+- Entering new Points of Contact (POCs) for potential clients into the company platform (Salesforce). Contacting potential collaborators to profile them as potential candidates for new client projects. Conducting business development calls with potential clients. Collaborating with the technical department of clients to qualify job requirements. Preparing candidates for interviews. Handling contract amendments for clients and coordinating with the legal department to find solutions. Maintaining relationships with both clients and collaborators.
 
-### Sales Account Manager @Domar Spa (February 2017 - December 2020)
-
-Main tasks: - Serving as intermediary between foreign buyers and the company either by telephone, electronically and face to face, visiting and meeting clients to support and grow sales volume. - Providing leadership and guidance to customer service, planning and logistics teams to ensure that customers receive their appropriate shipments. - Negotiating and monitoring export rates and services to reduce operating costs and increase profitability. Responding promptly to customer enquiries and complaints and looking to find winning solutions. - Attending international trade shows. - Generating new leads through organic search on Google, Maps, Linkedin and
-contacting them with cold calling activities, emails and messages. 
-
-### Digital Marketing Manager @4Credit (October 2011 - May 2016)
+### Domar Spa - (February 2017 – December 2020) – Matera (ITALY)
 
 Main tasks: - Managing all the social and media networks of the company: You Tube, Facebook, LinkedIn, Blogs. - Creating new video and photo contents and writing articles for either generating leads and increasing the brand reputation. - Finding cooperation with both national and international lead generation channels and managing advertising campaigns using tools like Google Ads, Facebook Ads etc. - Managin the development team to create new web sites and improve the existing ones.
 
 ### Project Manager @4Credit (April 2007 - October 2011)
+**Sales Account Manager**
+- Intermediary for foreign buyers and companies, using varied communication methods. Enhancing sales through client
+visits. Leading customer service, planning, and logistics teams. Negotiating export rates for cost efficiency. Handling inquiries and complaints with effective solutions. Representing the company at trade shows. Generating leads through online searches and outreach methods.
 
-Main tasks: - Developing new projects to increase the company product portfolio in the financial and insurance sector. - Finding new cooperations with the biggest credit and insurance institutions in Italy- Organizing the front and back office activities of the branches. - Monitoring and instructing the branch managers and the back office operators as well as verifying the regulatory compliance of the offices of the group. - Organizing the outbound activities of the internal call center. - Recruiting, training and managing call center operators and selecting web developers with whom to interface for the development activities of the company websites.
+### 4Business Srl – (October 2011 – May 2016) – Reggio Emilia (ITALY)
+**Digital Marketing Manager**
+- Managing all of the company's social media networks: YouTube, Facebook, LinkedIn, and blogs. Creating fresh video and photo contents, as well as composing articles to generate leads and enhance brand reputation. Establishing collaborations with both domestic and international lead generation channels, and overseeing advertising campaigns using tools such as Google Ads and Facebook Ads.
+
+### 4Credit Srl – (April 2007 – October 2011) – Parma (ITALY)
+**Project Manager**
+- Creating new projects to expand financial and insurance products. Forging collaborations with key institutions. Coordinating branch operations, training managers. Ensuring compliance and overseeing call center. Managing recruitment and training for call center and web developers.
 
 ## Interests
 
