@@ -23,7 +23,9 @@ Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Progra
 | Name | Description | Tech Stack |
 | --- | --- | --- | --- |
 | <a href="https://github.com/aandre6891/tic-tac-toe" target="_blank">Tic-tac-toe (Solo project)</a> | Console-based Tic Tac Toe game developed using object-oriented programming principles and TDD. | Javascript, Node, Jest, Git, VsCode. |
-| <a href="https://github.com/aandre6891/bowling-challenge-javascript" target="_blank">Bowling scores (Solo project)</a> | Back-end of a software for bowling alley (scorecard) that calculates the score of a game. | Javascript, Node, Jest. |
+| <a href="https://github.com/aandre6891/bowling-challenge-javascript" target="_blank">Bowling scores (Solo project)</a> | Back-end of a software for bowling alley (scorecard) that calculates the score of a game. | Javascript, Node, Jest, VsCode. |
+| <a href="https://github.com/aandre6891/Battle-Tetris" target="_blank">Battle tetris (Team project)</a> | Fully JavaScript, HTML, and CSS 2-player Tetris game developed using TDD methodology. | Javascript, Html, Css, Jest, Node, VsCode. |
+| <a href="https://www.yivro.com/" target="_blank">Yivro (Solo project)</a> | A platform, entirely made with Wordpress and its plugins, to create a fusion of traditional and interactive CVs. | Wordpress, Plugins, Php, Html, Css. |
 
 ## Education
 
