@@ -29,26 +29,36 @@ Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Progra
 
 ## Education
 
-### Makers Academy (March 2023 - ongoing)
+### Makers Academy - (March 2023 – July 2023) – London (UK)
+#### Web/Software Development Bootcamp
 
-Makers Academy's'extreme programming' agile environment aims to produce self-sufficient developers and to teach both coding and best practices.
+This course has equipped me to readily start a junior developer role. It's been a five month intensive program in software development and programming skills, training in various programming languages, tools, and frameworks. Including handson web app and software building. The course focused on the importance of collaborative coding to boost teamwork dynamics. I learnt Agile, TDD, Git, and practical project skills. I developed proficiency in front-end, back-end, and a strong foundation in problem-solving and debugging.
 
-Things I've learned (updating):
+### Niccolò Cusano University - (November 2020) – Rome (ITALY)
+#### Bachelor and Master's Degree in Law (5-year program)
 
-- Ruby
-- Git
-- Github
-- Slack
-- Visual studio code
+Thorough study of legal theories across diverse fields. The degree covered constitutional, civil, criminal, administrative, and international law. With particular focus on research, analytical skills, and legal writing, including contracts. I learnt to demonstrably apply theory to practical scenarios through case studies. Covered legal ethics, comparative law, and international frameworks, and also explored dispute resolution, including mediation and arbitration.
 
-### Master's Degree in Law (November 2020)
+### Niccolò Cusano University - (April 2012) – Rome (ITALY)
+#### Bachelor's Degree in Economics and Business Management (3-year program)
 
-5 years Single-cycle degree in Law of the Niccolò Cusano University that gave me skills and solid knowledge in the field of law.
+In-depth economics and business management course which covered economics, finance and the markets. Explored
+marketing, accounting, and HR. It allowed me to gain practical skills through real-world projects. Learnt strategic decisionmaking,
+planning, and entrepreneurship. The curriculum included legal and ethical aspects and gave quantitative skills for
+data-driven choices.
 
-### Bachelor's Degree in Economics and Business Management (April 2012)
+### Liceo Scientifico Dante Alighieri - (July 2005) – Matera (ITALY)
+#### High School Diploma (equivalent to 11 GCSE's UK)
 
-3 years Bachelor’s degree programme in Business Economics and Management that gave me both general and specialised knowledge and skills in business, management and legal areas.
+Studied math, physics, chemistry, biology, and computer science comprehensively. Developed problem-solving through
+labs and analysis. These classes focused on critical thinking and I was able to achieve a robust and well-rounded education which also included languages (Italian and English), humanities and social sciences.
 
+## Certificates
+
+### Google Digital Garage – (February 2021)
+#### Fundamentals of digital marketing
+
+Certified in essential digital marketing concepts including SEO, PPC, social media, email marketing, and web analytics. Gives proficiency in fundamental strategies for navigating the digital marketing landscape.
 ## Career Experience
 
 ### Senior IT Recruiter @Frank Recruitment Group (September 2021 - March 2023) 
