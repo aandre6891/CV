@@ -63,10 +63,6 @@ professional work environment. By actively engaging in various team projects, I 
   - Entering new Points of Contact (POCs) for potential clients into the company platform (Salesforce). Contacting potential collaborators to profile them as potential candidates for new client projects. Conducting business development calls with potential clients. Collaborating with the technical department of clients to qualify job requirements. Preparing candidates for interviews. Handling contract amendments for clients and coordinating with the legal department to find solutions. Maintaining relationships with both clients and collaborators.
 
 ### Domar Spa - (February 2017 – December 2020) – Matera (ITALY)
-
-Main tasks: - Managing all the social and media networks of the company: You Tube, Facebook, LinkedIn, Blogs. - Creating new video and photo contents and writing articles for either generating leads and increasing the brand reputation. - Finding cooperation with both national and international lead generation channels and managing advertising campaigns using tools like Google Ads, Facebook Ads etc. - Managin the development team to create new web sites and improve the existing ones.
-
-### Project Manager @4Credit (April 2007 - October 2011)
 **Sales Account Manager**
 - Intermediary for foreign buyers and companies, using varied communication methods. Enhancing sales through client
 visits. Leading customer service, planning, and logistics teams. Negotiating export rates for cost efficiency. Handling inquiries and complaints with effective solutions. Representing the company at trade shows. Generating leads through online searches and outreach methods.
