@@ -20,8 +20,8 @@ Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Progra
 
 ## Projects
 
-| Name | Description | Tech Stack |
-| --- | --- | --- | --- |
+| Name                                               | Description                                                                                       | Tech Stack                            |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | <a href="https://github.com/aandre6891/tic-tac-toe" target="_blank">Tic-tac-toe (Solo project)</a> | Console-based Tic Tac Toe game developed using object-oriented programming principles and TDD. | Javascript, Node, Jest, Git, VsCode. |
 | <a href="https://github.com/aandre6891/bowling-challenge-javascript" target="_blank">Bowling scores (Solo project)</a> | Back-end of a software for bowling alley (scorecard) that calculates the score of a game. | Javascript, Node, Jest, VsCode. |
 | <a href="https://github.com/aandre6891/Battle-Tetris" target="_blank">Battle tetris (Team project)</a> | Fully JavaScript, HTML, and CSS 2-player Tetris game developed using TDD methodology. | Javascript, Html, Css, Jest, Node, VsCode. |
