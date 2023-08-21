@@ -30,29 +30,29 @@ Methodologies: Agile, TDD (Test-Driven Development), OOP (Object-Oriented Progra
 ## Education
 
 ### Makers Academy - (March 2023 – July 2023) – London (UK)
-#### Web/Software Development Bootcamp
+**Web/Software Development Bootcamp**
 This course has equipped me to readily start a junior developer role. It's been a five month intensive program in software development and programming skills, training in various programming languages, tools, and frameworks. Including handson web app and software building. The course focused on the importance of collaborative coding to boost teamwork dynamics. I learnt Agile, TDD, Git, and practical project skills. I developed proficiency in front-end, back-end, and a strong foundation in problem-solving and debugging.
 
 ### Niccolò Cusano University - (November 2020) – Rome (ITALY)
-#### Bachelor and Master's Degree in Law (5-year program)
+**Bachelor and Master's Degree in Law (5-year program)**
 Thorough study of legal theories across diverse fields. The degree covered constitutional, civil, criminal, administrative, and international law. With particular focus on research, analytical skills, and legal writing, including contracts. I learnt to demonstrably apply theory to practical scenarios through case studies. Covered legal ethics, comparative law, and international frameworks, and also explored dispute resolution, including mediation and arbitration.
 
 ### Niccolò Cusano University - (April 2012) – Rome (ITALY)
-#### Bachelor's Degree in Economics and Business Management (3-year program)
+**Bachelor's Degree in Economics and Business Management (3-year program)**
 In-depth economics and business management course which covered economics, finance and the markets. Explored
 marketing, accounting, and HR. It allowed me to gain practical skills through real-world projects. Learnt strategic decisionmaking,
 planning, and entrepreneurship. The curriculum included legal and ethical aspects and gave quantitative skills for
 data-driven choices.
 
 ### Liceo Scientifico Dante Alighieri - (July 2005) – Matera (ITALY)
-#### High School Diploma (equivalent to 11 GCSE's UK)
+**High School Diploma (equivalent to 11 GCSE's UK)**
 Studied math, physics, chemistry, biology, and computer science comprehensively. Developed problem-solving through
 labs and analysis. These classes focused on critical thinking and I was able to achieve a robust and well-rounded education which also included languages (Italian and English), humanities and social sciences.
 
 ## Certificates
 
 ### Google Digital Garage – (February 2021)
-#### Fundamentals of digital marketing
+**Fundamentals of digital marketing**
 Certified in essential digital marketing concepts including SEO, PPC, social media, email marketing, and web analytics. Gives proficiency in fundamental strategies for navigating the digital marketing landscape.
 ## Career Experience
 
