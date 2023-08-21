@@ -59,10 +59,8 @@ marketing, accounting, and HR. It allowed me to gain practical skills through re
 professional work environment. By actively engaging in various team projects, I was able to apply methodologies and work processes that mirror those used in real-world settings. This experience surpassed the bounds of a conventional learning program. It served as a platform to develop tangible skills within a simulated work atmosphere and effectively preparing me for the challenges and opportunities that lie ahead in the software development field.
 
 ### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
-- Trainee IT Recruiter
-- Promoted to Recruiting Consultant (from March 2022)
-- Promoted to Senior IT Recruiter (from December 2022)
-- Entering new Points of Contact (POCs) for potential clients into the company platform (Salesforce). Contacting potential collaborators to profile them as potential candidates for new client projects. Conducting business development calls with potential clients. Collaborating with the technical department of clients to qualify job requirements. Preparing candidates for interviews. Handling contract amendments for clients and coordinating with the legal department to find solutions. Maintaining relationships with both clients and collaborators.
+**Trainee IT Recruiter / Promoted to Recruiting Consultant (from March 2022) / Promoted to Senior IT Recruiter (from December 2022)**
+  - Entering new Points of Contact (POCs) for potential clients into the company platform (Salesforce). Contacting potential collaborators to profile them as potential candidates for new client projects. Conducting business development calls with potential clients. Collaborating with the technical department of clients to qualify job requirements. Preparing candidates for interviews. Handling contract amendments for clients and coordinating with the legal department to find solutions. Maintaining relationships with both clients and collaborators.
 
 ### Domar Spa - (February 2017 – December 2020) – Matera (ITALY)
 
