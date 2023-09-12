@@ -4,7 +4,8 @@
 
 ## About Me
 
-A Developer with diverse background in Sales, Team Management, and Tech Recruitment. A graduate in Economics & Business and Law. Fluent in Italian and English. Recent graduate from Makers Academy Bootcamp in July 2023. Possesses excellent communication and strong teamwork abilities. Passionate about problem-solving and eager to work in a stimulating and collaborative environment. Seeking an opportunity to grow and contribute to impactful tech projects.
+A Developer seeking an opportunity to contribute to impactful tech projects. With a diverse background in Tech Recruitment, Sales and IT Team Management. Strong experience in creating multiple company websites and growing business revenue and increasing unique daily visitors. Recent graduate from the Makers Academy Bootcamp (July 2023) and graduate Degrees in Economics & Business and Law. Fluent in Italian and English, possesses excellent communication and strong teamwork
+abilities. Passionate about problem-solving and eager to work in a stimulating and collaborative environment.
 
 ## Technical Skills
 
