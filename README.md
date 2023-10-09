@@ -1,6 +1,6 @@
 # Andrea Ruggieri
 
-[Go to: About me](#about-me) -- [Technical Skills](#technical-skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
+[Go to: About me](#about-me) -- [Technical Skills](#technical-skills) -- [Projects](#projects) -- [Experience](#experience) -- [Education](#education) -- [Interests](#interests)
 
 ## About Me
 
@@ -28,6 +28,30 @@ abilities. Passionate about problem-solving and eager to work in a stimulating a
 | <a href="https://github.com/aandre6891/Battle-Tetris" target="_blank">Battle tetris (Team project)</a> | Fully JavaScript, HTML, and CSS 2-player Tetris game developed using TDD methodology. | Javascript, Html, Css, Jest, Node, VsCode. |
 | <a href="https://www.yivro.com/" target="_blank">Yivro (Solo project)</a> | A platform, entirely made with Wordpress and its plugins, to create a fusion of traditional and interactive CVs. | Wordpress, Plugins, Php, Html, Css. |
 
+## Experience
+
+### Makers Academy Bootcamp - (March 2023 – July 2023) – London (UK)
+**Web/Software Developer**
+- In addition to being an education course, Makers Academy provided an immersive and practical simulation of a
+professional work environment. By actively engaging in various team projects, I was able to apply methodologies and work processes that mirror those used in real-world settings. This experience surpassed the bounds of a conventional learning program. It served as a platform to develop tangible skills within a simulated work atmosphere and effectively preparing me for the challenges and opportunities that lie ahead in the software development field.
+
+### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
+**Trainee IT Recruiter / Promoted to Recruiting Consultant (from March 2022) / Promoted to Senior IT Recruiter (from December 2022)**
+  - Entering new Points of Contact (POCs) for potential clients into the company platform (Salesforce). Contacting potential collaborators to profile them as potential candidates for new client projects. Conducting business development calls with potential clients. Collaborating with the technical department of clients to qualify job requirements. Preparing candidates for interviews. Handling contract amendments for clients and coordinating with the legal department to find solutions. Maintaining relationships with both clients and collaborators.
+
+### Domar Spa - (February 2017 – December 2020) – Matera (ITALY)
+**Sales Account Manager**
+- Intermediary for foreign buyers and companies, using varied communication methods. Enhancing sales through client
+visits. Leading customer service, planning, and logistics teams. Negotiating export rates for cost efficiency. Handling inquiries and complaints with effective solutions. Representing the company at trade shows. Generating leads through online searches and outreach methods.
+
+### 4Business Srl – (October 2011 – May 2016) – Reggio Emilia (ITALY)
+**Digital Marketing Manager**
+- Managing all of the company's social media networks: YouTube, Facebook, LinkedIn, and blogs. Creating fresh video and photo contents, as well as composing articles to generate leads and enhance brand reputation. Establishing collaborations with both domestic and international lead generation channels, and overseeing advertising campaigns using tools such as Google Ads and Facebook Ads.
+
+### 4Credit Srl – (April 2007 – October 2011) – Parma (ITALY)
+**Project Manager**
+- Creating new projects to expand financial and insurance products. Forging collaborations with key institutions. Coordinating branch operations, training managers. Ensuring compliance and overseeing call center. Managing recruitment and training for call center and web developers.
+
 ## Education
 
 ### Makers Academy - (March 2023 – July 2023) – London (UK)
@@ -52,30 +76,6 @@ marketing, accounting, and HR. It allowed me to gain practical skills through re
 ### Google Digital Garage – (February 2021)
 **Fundamentals of digital marketing**
 - Certified in essential digital marketing concepts including SEO, PPC, social media, email marketing, and web analytics. Gives proficiency in fundamental strategies for navigating the digital marketing landscape.
-  
-## Experience
-
-### Makers Academy Bootcamp - (March 2023 – July 2023) – London (UK)
-**Web/Software Developer**
-- In addition to being an education course, Makers Academy provided an immersive and practical simulation of a
-professional work environment. By actively engaging in various team projects, I was able to apply methodologies and work processes that mirror those used in real-world settings. This experience surpassed the bounds of a conventional learning program. It served as a platform to develop tangible skills within a simulated work atmosphere and effectively preparing me for the challenges and opportunities that lie ahead in the software development field.
-
-### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
-**Trainee IT Recruiter / Promoted to Recruiting Consultant (from March 2022) / Promoted to Senior IT Recruiter (from December 2022)**
-  - Entering new Points of Contact (POCs) for potential clients into the company platform (Salesforce). Contacting potential collaborators to profile them as potential candidates for new client projects. Conducting business development calls with potential clients. Collaborating with the technical department of clients to qualify job requirements. Preparing candidates for interviews. Handling contract amendments for clients and coordinating with the legal department to find solutions. Maintaining relationships with both clients and collaborators.
-
-### Domar Spa - (February 2017 – December 2020) – Matera (ITALY)
-**Sales Account Manager**
-- Intermediary for foreign buyers and companies, using varied communication methods. Enhancing sales through client
-visits. Leading customer service, planning, and logistics teams. Negotiating export rates for cost efficiency. Handling inquiries and complaints with effective solutions. Representing the company at trade shows. Generating leads through online searches and outreach methods.
-
-### 4Business Srl – (October 2011 – May 2016) – Reggio Emilia (ITALY)
-**Digital Marketing Manager**
-- Managing all of the company's social media networks: YouTube, Facebook, LinkedIn, and blogs. Creating fresh video and photo contents, as well as composing articles to generate leads and enhance brand reputation. Establishing collaborations with both domestic and international lead generation channels, and overseeing advertising campaigns using tools such as Google Ads and Facebook Ads.
-
-### 4Credit Srl – (April 2007 – October 2011) – Parma (ITALY)
-**Project Manager**
-- Creating new projects to expand financial and insurance products. Forging collaborations with key institutions. Coordinating branch operations, training managers. Ensuring compliance and overseeing call center. Managing recruitment and training for call center and web developers.
 
 ## Interests
 
