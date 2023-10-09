@@ -32,7 +32,7 @@ abilities. Passionate about problem-solving and eager to work in a stimulating a
 
 ### Makers Academy Bootcamp - (March 2023 – July 2023) – London (UK)
 **Web/Software Developer**
-- In addition to being an educational course, Makers Academy provided an immersive and practical simulation of a
+In addition to being an educational course, Makers Academy provided an immersive and practical simulation of a
 professional work environment. By actively engaging in various team projects, I:
 • Applied methodologies and work processes that mirror those used in real-world settings such as Agile, Object-
 Oriented Programming, Pair Programming and Test-driven Development.
@@ -44,9 +44,9 @@ This experience served as a platform to develop tangible skills within a simulat
 prepared me for the challenges and opportunities in the software development field.
 
 ### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
-- Trainee IT Recruiter
-- Promoted to Recruiting Consultant (from March 2022)
-- Promoted to Senior IT Recruiter (from December 2022)
+Trainee IT Recruiter 
+Promoted to Recruiting Consultant (from March 2022)
+Promoted to Senior IT Recruiter (from December 2022)
 •   Won the Rookie of the Year 2022 award for having the best performances as a new consultant in the company.
 •   Contacted potential freelance developers to profile them as potential candidates for new client projects.
 •   Conducted business development calls with potential clients, qualified jobs requirements with their technical department and handled contract amendments by coordinating with the legal department.
