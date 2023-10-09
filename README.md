@@ -1,6 +1,6 @@
 # Andrea Ruggieri
 
-[Go to: About me](#about-me) -- [Technical Skills](#technical-skills) -- [Projects](#projects) -- [Education](#education) -- [Career-Experience](#career-experience) -- [Interests](#interests)
+[Go to: About me](#about-me) -- [Technical Skills](#technical-skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Interests](#interests)
 
 ## About Me
 
@@ -9,7 +9,7 @@ abilities. Passionate about problem-solving and eager to work in a stimulating a
 
 ## Technical Skills
 
-- Languages: Ruby, JavaScript  
+- Languages: Ruby, JavaScript, PHP (basic)  
 - Web Development: Html, Css, Node, Express, Sinatra  
 - Databases: MongoDb, PostgreSQL  
 - Version control: Git, Github  
@@ -52,7 +52,8 @@ marketing, accounting, and HR. It allowed me to gain practical skills through re
 ### Google Digital Garage – (February 2021)
 **Fundamentals of digital marketing**
 - Certified in essential digital marketing concepts including SEO, PPC, social media, email marketing, and web analytics. Gives proficiency in fundamental strategies for navigating the digital marketing landscape.
-## Career Experience
+  
+## Experience
 
 ### Makers Academy Bootcamp - (March 2023 – July 2023) – London (UK)
 **Web/Software Developer**
