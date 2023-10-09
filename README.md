@@ -47,8 +47,8 @@ This experience served as a platform to develop tangible skills within a simulat
 prepared me for the challenges and opportunities in the software development field.
 
 ### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
-- Trainee IT Recruiter\
-- Promoted to Recruiting Consultant (from March 2022)\
+- Trainee IT Recruiter
+- Promoted to Recruiting Consultant (from March 2022)
 - Promoted to Senior IT Recruiter (from December 2022)
 
 •   Won the Rookie of the Year 2022 award for having the best performances as a new consultant in the company.\
