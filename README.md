@@ -37,11 +37,11 @@ In addition to being an educational course, Makers Academy provided an immersive
 professional work environment. By actively engaging in various team projects, I:
 
 • Applied methodologies and work processes that mirror those used in real-world settings such as Agile, Object-
-Oriented Programming, Pair Programming and Test-driven Development.\\
+Oriented Programming, Pair Programming and Test-driven Development.\
 • Actively led and contributed to projects and code with several programming languages and technologies such as
-Javascript, Ruby, Node, React, Html, Css.\\
-• Worked with both SQL and NoSQL database like PostgreSQL and MongoDB.\\
-• Committed clearly in Git and Github when making changes to the projects, managed branches and merges.\\
+Javascript, Ruby, Node, React, Html, Css.\
+• Worked with both SQL and NoSQL database like PostgreSQL and MongoDB.\
+• Committed clearly in Git and Github when making changes to the projects, managed branches and merges.\
 
 This experience served as a platform to develop tangible skills within a simulated work atmosphere and effectively
 prepared me for the challenges and opportunities in the software development field.
