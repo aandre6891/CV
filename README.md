@@ -49,7 +49,8 @@ prepared me for the challenges and opportunities in the software development fie
 ### Frank Recruitment Group - (September 2021 – March 2023) – London (UK)
 - Trainee IT Recruiter\
 - Promoted to Recruiting Consultant (from March 2022)\
-- Promoted to Senior IT Recruiter (from December 2022)\
+- Promoted to Senior IT Recruiter (from December 2022)
+
 •   Won the Rookie of the Year 2022 award for having the best performances as a new consultant in the company.\
 •   Contacted potential freelance developers to profile them as potential candidates for new client projects.\
 •   Conducted business development calls with potential clients, qualified jobs requirements with their technical department and handled contract amendments by coordinating with the legal department.\
@@ -57,53 +58,52 @@ prepared me for the challenges and opportunities in the software development fie
 •   Entered hundreds of new Points of Contact for potential clients into the company platform (Salesforce).
 
 ### Domar Spa - (February 2017 – December 2020) – Matera (ITALY)
-**Sales Account Manager (spare parts for trucks and trailers)**
-• Increased the company's revenue by €1 Million Euro’s.
-• Closed contracts with some of the most important trailer manufacturers in Europe and overseas.
-• Visited clients in Europe, Middle East and Oceania.
-• Leaded customer service, planning, and logistics teams.
-• Negotiated export rates for cost efficiency.
-• Handled inquiries and complaints with effective solutions.
-• Represented the company at trade shows.
+**Sales Account Manager (spare parts for trucks and trailers)**\
+• Increased the company's revenue by €1 Million Euro’s.\
+• Closed contracts with some of the most important trailer manufacturers in Europe and overseas.\
+• Visited clients in Europe, Middle East and Oceania.\
+• Leaded customer service, planning, and logistics teams.\
+• Negotiated export rates for cost efficiency.\
+• Handled inquiries and complaints with effective solutions.\
+• Represented the company at trade shows.\
 • Generated leads through online searches and outreach methods.
 
 ### 4Business Srl – (October 2011 – May 2016) – Reggio Emilia (ITALY)
-**Digital Marketing & Web Developer**
-• Created 3 new websites (Wordpress, PHP, HTML, CSS, Javascript) for the company and managed a team of 4
-developers.
-• Brought the daily unique visitors from 300 to 6,000 across all the websites.
-• Managed all of the company's social media networks: YouTube, Facebook, LinkedIn, and blogs.
-• Created fresh video and photo contents, as well articles to generate leads and enhance brand reputation.
+**Digital Marketing & Web Developer**\
+• Created 3 new websites (Wordpress, PHP, HTML, CSS, Javascript) for the company and managed a team of 4 developers.\
+• Brought the daily unique visitors from 300 to 6,000 across all the websites.\
+• Managed all of the company's social media networks: YouTube, Facebook, LinkedIn, and blogs.\
+• Created fresh video and photo contents, as well articles to generate leads and enhance brand reputation.\
 • Established collaborations with both domestic and international lead generation channels like TradeTracker and managed advertising campaigns using tools such as Google Ads and Facebook Ads.
 
 ### 4Credit Srl – (April 2007 – October 2011) – Parma (ITALY)
-**Project Manager**
-• Coordinated branch operations, training managers and managed all the back-office operations (4 people team).
-• Created new projects to expand financial and insurance products and introduced the core product of the company.
+**Project Manager**\
+• Coordinated branch operations, training managers and managed all the back-office operations (4 people team).\
+• Created new projects to expand financial and insurance products and introduced the core product of the company.\
 • Forged collaborations with key institutions such as Unicredit, Sigla Financial, Intesa San Paolo and others.
 
 ## Education
 
 ### Makers Academy - (March 2023 – July 2023) – London (UK)
-**Web/Software Development Bootcamp**
-- This course has equipped me to readily start a junior developer role. It's been a five month intensive program in software development and programming skills, training in various programming languages, tools, and frameworks. Including handson web app and software building. The course focused on the importance of collaborative coding to boost teamwork dynamics. I learnt Agile, TDD, Git, and practical project skills. I developed proficiency in front-end, back-end, and a strong foundation in problem-solving and debugging.
+**Web/Software Development Bootcamp**\
+This course has equipped me to readily start a junior developer role. It's been a five month intensive program in software development and programming skills, training in various programming languages, tools, and frameworks. Including handson web app and software building. The course focused on the importance of collaborative coding to boost teamwork dynamics. I learnt Agile, TDD, Git, and practical project skills. I developed proficiency in front-end, back-end, and a strong foundation in problem-solving and debugging.
 
 ### Niccolò Cusano University - (November 2020) – Rome (ITALY)
-**Bachelor and Master's Degree in Law (5-year program)**
+**Bachelor and Master's Degree in Law (5-year program)**\
 The degree covered several subjects such as: constitutional, civil, criminal, administrative, comparative law and international law, with particular focus on research, analytical skills, and legal writing, including contracts.
 
 ### Niccolò Cusano University - (April 2012) – Rome (ITALY)
-**Bachelor's Degree in Economics and Business Management (3-year program)**
+**Bachelor's Degree in Economics and Business Management (3-year program)**\
 In-depth course which covered economics, finance and business management. Learnt strategic decision-making, planning, and entrepreneurship. The curriculum included legal and ethical aspects.
 
 ### Liceo Scientifico Dante Alighieri - (July 2005) – Matera (ITALY)
-**High School Diploma (equivalent to 11 GCSE's UK)**
+**High School Diploma (equivalent to 11 GCSE's UK)**\
 Studied math, physics, chemistry, biology, computer science, history, geography, languages (Italian and English), humanities and social sciences.
 
 ## Certificates
 
 ### Google Digital Garage – (February 2021)
-**Fundamentals of digital marketing**
+**Fundamentals of digital marketing**\
 Certified in essential digital marketing concepts including SEO, PPC, social media, email marketing, and web analytics.
 
 ## Interests
