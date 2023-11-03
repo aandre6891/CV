@@ -23,6 +23,7 @@ abilities. Passionate about problem-solving and eager to work in a stimulating a
 
 | Name                                               | Description                                                                                       | Tech Stack                            |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Pawen (Volunteering Project)</a> | New website and blog of an organization that helps African women (Volunteering project). | Wordpress, MAMP, Apache, MySql, Git, Github, Php, Html, Css |
 | <a href="https://github.com/aandre6891/tic-tac-toe" target="_blank">Tic-tac-toe (Solo project)</a> | Console-based Tic Tac Toe game developed using object-oriented programming principles and TDD. | Javascript, Node, Jest, Git, VsCode. |
 | <a href="https://github.com/aandre6891/bowling-challenge-javascript" target="_blank">Bowling scores (Solo project)</a> | Back-end of a software for bowling alley (scorecard) that calculates the score of a game. | Javascript, Node, Jest, VsCode. |
 | <a href="https://github.com/aandre6891/Battle-Tetris" target="_blank">Battle tetris (Team project)</a> | Fully JavaScript, HTML, and CSS 2-player Tetris game developed using TDD methodology. | Javascript, Html, Css, Jest, Node, VsCode. |
